@@ -107,3 +107,7 @@ A  role-based School Management System built with the MERN stack (MongoDB, Expre
 4. Once logged in as a SuperAdmin, approve newly created Schools via the UI.
 5. Log in as a SchoolAdmin to start adding Teachers
 6. log in as Teachers to start enrolling Students.
+
+---
+
+
